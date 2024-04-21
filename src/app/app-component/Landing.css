@@ -1,0 +1,44 @@
+.text-style {
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.textstyle{
+    
+     
+    font-family: Poppins; 
+    font-size: 26px; 
+    font-weight: 400; 
+    color: rgb(255, 189, 56); 
+    line-height: 1; 
+    border-radius: 0px; 
+    opacity: 1; 
+    
+
+}
+
+.style{
+    font-family: Poppins;
+    font-size: 56px;
+    font-weight: 800;
+    color: white; 
+    line-height: 1.4; 
+    border-radius: 0px; 
+    opacity: 1; 
+    align-self: flex-start; 
+    min-width: 0px; 
+    order: 3; 
+    min-height: 91px; 
+    height: max-content; 
+    flex-grow: 0; 
+    flex-shrink: 0; 
+    width: calc(100% + 0px); 
+    margin: 0px; z-index: 3;
+}
+
+
+
